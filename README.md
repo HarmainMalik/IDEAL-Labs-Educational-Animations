@@ -131,28 +131,3 @@ Through these projects, I developed and applied skills in:
 The animation work was developed as part of a collaborative environment at IDEAL Labs.
 
 The process involved coordinating with team members, discussing technical concepts, refining visual explanations, reviewing animation outputs, and incorporating feedback to improve the final educational content.
-
-## 📂 Repository Structure
-
-Each project is organized with its relevant source files and media.
-
-```text
-IDEAL-Labs-Educational-Animations/
-│
-├── Neutral-IR/
-│   ├── source/
-│   └── video/
-│
-├── Browsing-Paths/
-│   ├── source/
-│   └── video/
-│
-├── Proximal-Nodes/
-│   ├── source/
-│   └── video/
-│
-├── Semantic-Search/
-│   ├── source/
-│   └── video/
-│
-└── README.md
